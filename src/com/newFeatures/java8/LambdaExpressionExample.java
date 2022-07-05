@@ -6,4 +6,6 @@ public class LambdaExpressionExample {
 		return a+b;
 	}
 	
+	
+	(a,b) ->(a,b);
 }
