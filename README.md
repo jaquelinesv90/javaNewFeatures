@@ -6,5 +6,5 @@ Demonstrates most features that were introduced in Java 8,9.
  Lambda
  Functional Interface
 # Java 9
- Interface private methods
+[Interface private methods](https://github.com/jaquelinesv90/javaNewFeatures/blob/master/src/com/newFeatures/java9/private_methods/PrivateMethodsExample.java)
  
