@@ -6,6 +6,6 @@ public class ClassImplementation implements PrivateMethodsExample {
 		PrivateMethodsExample variable = new ClassImplementation();
 		variable.bar();
 		
-		PrivateMethodsExample.buzz();
+		PrivateMethodsExample.buzz();  
 	}
 }

@@ -11,7 +11,6 @@ public interface PrivateMethodsExample {
 	}
 	
 	
-	
 	static void buzz() {
 		System.out.print("static method");
 	}
