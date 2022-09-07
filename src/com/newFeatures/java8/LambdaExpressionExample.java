@@ -3,9 +3,8 @@ package com.newFeatures.java8;
 public class LambdaExpressionExample {
 
 	public int addTwoNumbers(int a, int b) {
-		return a+b;
+		return a + b;
 	}
 	
-	
-	(a,b) ->(a,b);
+	Integer numbers = (a, b) ->  a + b;
 }
