@@ -3,7 +3,7 @@
 Demonstrates most features that were introduced in Java 8,9,...18.
 
 # Java 8
- Lambda Expressions
+ [Lambda Expressions](https://github.com/jaquelinesv90/javaNewFeatures/blob/master/src/com/newFeatures/java8/lambda/LambdaExample.java)
  </br>
  Functional Interface
  </br>
