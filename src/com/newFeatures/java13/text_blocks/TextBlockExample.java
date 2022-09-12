@@ -12,7 +12,7 @@ public class TextBlockExample {
 		String TEXT_BLOCK_JSON = """
 			{
 				"name" : "Text",
-				"website":"https://www.%s.com/" 
+				"website":"https://www.%s.com/"    
 			}	
 			""";
 	}
