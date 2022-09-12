@@ -15,4 +15,6 @@ Demonstrates most features that were introduced in Java 8,9,...18.
 [Interface private methods](https://github.com/jaquelinesv90/javaNewFeatures/tree/master/src/com/newFeatures/java9/private_methods)
 </br>
 ## Java 13
-[Text Blocks](https://github.com/jaquelinesv90/javaNewFeatures/tree/master/bin/com/newFeatures/java13/switch_statement)
+[Switch](https://github.com/jaquelinesv90/javaNewFeatures/tree/master/bin/com/newFeatures/java13/switch_statement)
+</br>
+[Text Block](https://github.com/jaquelinesv90/javaNewFeatures/blob/master/src/com/newFeatures/java13/text_blocks/TextBlockExample.java)
