@@ -2,7 +2,7 @@
 
 Demonstrates most features that were introduced in Java 8,9,...18.
 
-# Java 8
+## Java 8
  [Lambda Expressions](https://github.com/jaquelinesv90/javaNewFeatures/blob/master/src/com/newFeatures/java8/lambda/LambdaExample.java)
  </br>
  Functional Interface
@@ -11,7 +11,8 @@ Demonstrates most features that were introduced in Java 8,9,...18.
  </br>
  Optional Class
  
-# Java 9
+## Java 9
 [Interface private methods](https://github.com/jaquelinesv90/javaNewFeatures/tree/master/src/com/newFeatures/java9/private_methods)
 </br>
- 
+## Java 13
+[Text Blocks](https://github.com/jaquelinesv90/javaNewFeatures/tree/master/bin/com/newFeatures/java13/switch_statement)
