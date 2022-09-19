@@ -7,7 +7,7 @@ public class SwitchStatementExample {
 		int numLettersBefore = 0 ;
 		Day dayBefore = Day.WEDNESDAY;
 		
-		switch(dayBefore) {
+		switch(dayBefore) {   
 		case MONDAY:
 		case FRIDAY:
 		case SUNDAY:
