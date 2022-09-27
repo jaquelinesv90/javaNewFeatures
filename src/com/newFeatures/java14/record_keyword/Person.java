@@ -16,9 +16,20 @@ public class Person {
 		return Objects.hash(name, address);
 	}
 	
-	public boolean equals(Object ob) {
-		if() {
-			
+	public boolean equals(Object obj) {
+		if(this == obj) {
+			return true;
+		}else if(!(obj instanceof Person)) {
+			return false;
+		}else {
+			Person other = (Person) obj;
+			return Objects.equals(name, other.name)
+					&& Objects.equals(address, other.address);
 		}
+	}
+	
+	@Override
+	public String toString() {
+		return "Person[name=]"+name+",address="+address+"]";
 	}
 }
